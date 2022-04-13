@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/drawable/app_main_gradient.xml" value="0.2703125" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/drawable/bottom_navigation_color_selector.xml" value="0.2703125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/drawable/edittext_rounded_corners.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/drawable/textview_rounded_corner.xml" value="0.24537037037037038" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/drawable/view_rounded_corner.xml" value="0.2703125" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/font/custom_font.xml" value="0.28" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
@@ -13,9 +15,13 @@
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/layout/activity_splash.xml" value="0.264" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/layout/fragment_favorite.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/layout/fragment_profile.xml" value="0.72" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/layout/fragment_search.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/layout/fragment_upload.xml" value="0.30243337195828507" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/layout/item_post_favorite.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/layout/item_post_home.xml" value="0.176" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/layout/item_post_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/layout/item_user_search.xml" value="1.0" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/menu/navigation.xml" value="0.2" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram_clone/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
       </map>
@@ -26,5 +32,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.72" />
+      </ProjectState>
+    </option>
   </component>
 </project>

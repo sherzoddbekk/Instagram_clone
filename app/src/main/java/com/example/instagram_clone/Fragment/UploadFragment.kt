@@ -21,7 +21,7 @@ import java.lang.RuntimeException
 class UploadFragment:BaseFragment() {
 
     val TAG = UploadFragment::class.java.simpleName
-    private var listener :UploadListener? =null
+    private var listener: UploadListener? = null
 
     lateinit var fl_photo:FrameLayout
     lateinit var iv_photo:ImageView
